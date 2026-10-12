@@ -49,7 +49,7 @@ Focuses on reported fatalities and casualty patterns, including:
 Add your screenshots to a folder named `screenshots` and update the filenames below.
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview-dashboard.png)
+![Overview Dashboard](Pakistan_Terrorism_Attacks_2023.png)
 
 ### Human Impact Analysis
 ![Human Impact Analysis](Human_Impact_Analysis.png)
