@@ -45,10 +45,6 @@ Focuses on reported fatalities and casualty patterns, including:
 - Incident and human-impact patterns
 
 ## 📷 Dashboard Preview
-
-Add your screenshots to a folder named `screenshots` and update the filenames below.
-
-### Overview Dashboard
 ![Overview Dashboard](Pakistan_Terrorism_Attacks_2023.png)
 
 ### Human Impact Analysis
@@ -63,8 +59,6 @@ Add your screenshots to a folder named `screenshots` and update the filenames be
 
 
 The analysis depends on the accuracy, completeness, definitions, and reporting practices of the original dataset. Missing or unspecified records may affect the interpretation of results. This dashboard presents reported data and should not be interpreted as a complete account of every incident.
-
-Please refer to the original dataset's license and attribution requirements before redistributing its data.
 
 ## 💡 What I Learned
 
